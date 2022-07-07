@@ -32,3 +32,58 @@
     margin-top: 25px;
     font-size: 35px;
 }
+
+.heading-tag-second {
+    font-size: 40px;
+}
+
+.para-tag-second {
+    text-align: justify;
+    font-weight: 500;
+
+}
+
+.anchor-second {
+    text-decoration: none;
+    color: white;
+    background-color: indianred;
+    padding: 15px 30px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.btn-second {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.heading-div-second {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.para-div-second {
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+
+.spaces {
+    width: 500px;
+}
+
+.image-parent {
+    background-image: url("pexels-tranmautritam-326503.jpg");
+    width: 600px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.second-section {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
