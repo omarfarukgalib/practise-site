@@ -34,7 +34,7 @@
 }
 
 .heading-tag-second {
-    font-size: 40px;
+    font-size: 35px;
 }
 
 .para-tag-second {
@@ -54,22 +54,24 @@
 
 .btn-second {
     margin-top: 20px;
-    margin-left: 20px;
+    margin-left: 40px;
 }
 
 .heading-div-second {
-    margin-left: 20px;
+    margin-left: 40px;
     margin-top: 20px;
 }
 
 .para-div-second {
-    margin-left: 20px;
+    margin-left: 40px;
     margin-top: 10px;
 
 }
 
 .spaces {
     width: 500px;
+    margin-top: 50px;
+    padding: 20px;
 }
 
 .image-parent {
@@ -80,10 +82,125 @@
     background-size: cover;
     margin-left: 100px;
     margin-top: 30px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 2px white;
 }
 
 .second-section {
     display: flex;
     width: 100vw;
     height: 100vh;
+    background-color: bisque;
+    box-shadow: 2px 2px 2px gray;
+
+}
+
+.third-heading-child {
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+
+
+.third-para-div {
+    margin-left: 14px;
+    width: 300px;
+}
+
+
+.third-para-tag {
+    text-align: justify;
+}
+
+.third-heading-div-2 {
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.anchor-second-2 {
+    text-decoration: none;
+    color: white;
+    background-color: indianred;
+    padding: 15px 30px;
+    border-radius: 2px;
+    font-weight: bold;
+
+
+}
+
+.btn-second-2 {
+    margin-top: 20px;
+    margin-left: 12px;
+
+
+}
+
+.third-card-div-1 {
+    width: 300px;
+    height: 200px;
+    border: 1px solid gray;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: black;
+    border-radius: 2px;
+}
+
+.second-packet third-para-div {
+    margin-left: 14px;
+    width: 300px;
+}
+
+.second-packet third-para-tag {
+    text-align: justify;
+}
+
+.second-packet third-heading-div-2 {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.second-packet anchor-second-2 {
+    text-decoration: none;
+    color: white;
+    background-color: indianred;
+    padding: 15px 30px;
+    border-radius: 2px;
+    font-weight: bold;
+}
+
+.second-packet btn-second-2 {
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.second-packet third-card-div-1 {
+    width: 300px;
+    height: 200px;
+    border: 1px solid gray;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: black;
+    border-radius: 2px;
+}
+
+.third-section {
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+
+.first-packet {
+    margin: 40px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.second-packet {
+    margin: 40px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.third-packet {
+    margin: 40px;
+    box-shadow: 2px 2px 2px gray;
 }
